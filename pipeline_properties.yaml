@@ -16,7 +16,7 @@ integrationServer:
       - create-customer-serverconf.yaml
     policyproject:
       - create-customer-policy
-    truststore:
-      - es-cert.jks
-    setdbparms:
-      - xcel-credentials
+    # truststore:
+    #   - es-cert.jks
+    # setdbparms:
+    #   - xcel-credentials
