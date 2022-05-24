@@ -95,8 +95,7 @@
                 "type": "object",
                 "properties": {
                   "phone": {
-                    "type": "string",
-                    "pattern": "^\\d{3}-\\d{7}$"
+                    "type": "string"
                   },
                   "address": {
                     "type": "string"
